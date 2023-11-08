@@ -1,1 +1,2 @@
-# Iris_Prediction
+Machine Learning Project using Classification on Iris prediction using Python and Machine Learning techniques.This project is for my virtual internship training in Bharat intern and I have been assigned this as my 2nd task.I have implemented this on Jupyter notebook in anaconda environment.In this i have predicted species of flower using length and width of sepals and petals as input features from the data.With this i have learned how to use machine learning techniques using classification and gained knowledge while performing this task.Thus, i have enjoyed this task where i have learned new things.
+Author-R.Bhargav Sai Ved
